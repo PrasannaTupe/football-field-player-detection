@@ -53,6 +53,10 @@ A output.mp4 video will be generated as output with -
 - Bounding Boxes: Red = player ID not seen earlier, Green = player who re-entered
 - ID Overlay: Each tracked player is labeled with a consistent ID
 - Console Output: Lists initial and re-entering player IDs
+  <img width="985" alt="image" src="https://github.com/user-attachments/assets/677de2ac-1778-41d6-9c18-5da6429eb584" />
+  <img width="987" alt="image" src="https://github.com/user-attachments/assets/085e878a-8308-4abc-80a3-5be2b6f804e1" />
+
+
 ---
 
 For questions or collaboration, feel free to reach out.
